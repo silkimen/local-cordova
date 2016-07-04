@@ -1,0 +1,32 @@
+{
+  "name": "local-cordova",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "lcordova": "./bin/lcdv"
+  },
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "find-root": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^2.13.1",
+    "eslint-config-es": "^0.6.10",
+    "eslint-plugin-extended": "^0.2.0",
+    "eslint-plugin-mocha": "^3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silkimen/local-cordova.git"
+  },
+  "author": "Sefa Ilkimen <sefa.ilkimen@mobisys.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/silkimen/local-cordova/issues"
+  },
+  "homepage": "https://github.com/silkimen/local-cordova#readme"
+}
