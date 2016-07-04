@@ -1,7 +1,7 @@
 {
   "name": "local-cordova",
   "version": "0.1.0",
-  "description": "",
+  "description": "run locally installed cordova version",
   "main": "index.js",
   "bin": {
     "lcordova": "./bin/lcdv"
@@ -28,5 +28,12 @@
   "bugs": {
     "url": "https://github.com/silkimen/local-cordova/issues"
   },
+  "keywords": [
+    "cordova",
+    "local",
+    "different",
+    "version"
+  ],
+  "preferGlobal": true,
   "homepage": "https://github.com/silkimen/local-cordova#readme"
 }
